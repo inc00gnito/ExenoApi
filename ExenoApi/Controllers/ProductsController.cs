@@ -46,7 +46,7 @@ namespace ExenoApi.Controllers
             return Ok(await _mediator.Send(command));
         }
 
-        [HttpDelete("id")]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id)
         {
             return Ok(await _mediator.Send(new DeleteProductCommand() {Id = id}));
