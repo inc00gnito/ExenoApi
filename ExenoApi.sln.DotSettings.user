@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5751373_002D813b_002D4df4_002Da4ad_002D6c1745e8eeea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetById_KnownIdPassed_ReturnsRecord" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2B4F33A0-1E9D-4865-8155-E5009D517DC5::net5.0::Tests.TestProductController.GetById_KnownId_ReturnsOk&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2B4F33A0-1E9D-4865-8155-E5009D517DC5::net5.0::Tests.Mocks.ProductsControllerTest.GetAll_ReturnsAll&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2B4F33A0-1E9D-4865-8155-E5009D517DC5::net5.0::Tests.Mocks.ProductsControllerTest.GetOne_ReturnsOne&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2B4F33A0-1E9D-4865-8155-E5009D517DC5::net5.0::Tests.Mocks.ProductsControllerTest.GetOne_ReturnsNull&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
